@@ -1,0 +1,53 @@
+#EXTM3U
+# Collected And Uploaded By (https://github.com/sabbiriptv)
+# Credit For VOOT Script Goes To @DenverIsAlivee
+
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} ENGLISH (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=English.m3u8
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} HINDI (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=Hindi.m3u8
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} BENGALI (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=Bengali.m3u8
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} GUJRATI (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=Gujrati.m3u8
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} TAMIL (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=Tamil.m3u8
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} TELUGU (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=Telugu.m3u8
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} MALYALAM (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=Malyalam.m3u8
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} KANNADA (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=Kannada.m3u8
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} MARATHI (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=Marathi.m3u8
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} BHOJPURI (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=Bhojpuri.m3u8
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} ODIA (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=Odia.m3u8
+#EXTINF:-1 group-title="VOOT {INDIA}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{INDIA} PUNJABI (AUTO)
+https://voot.sabbirhasan3.repl.co/app/master.php?id=Punjabi.m3u8
+
+#EXTINF:-1 group-title="Daddy {GLOBAL}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",Astro Cricket (720p)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://ddy1.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Daddy {GLOBAL}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",Willow Cricket (720p)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://ddy1.onlinewebtv.lol/ddy1/premium346/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Daddy {GLOBAL}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",Sky Sports Cricket (576p)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://ddy1.onlinewebtv.lol/ddy1/premium65/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Daddy {GLOBAL}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",FOX 501 (720p-60FPS)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://ddh2.onlinewebtv.lol/ddh2/premium369/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AESport {VPN}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{VPN} Sky Sports Main Event (720p)
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.presenccunderwell.xyz/uk_skysportsmainevent/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="AESport {VPN}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",{VPN} Sky Sports Cricket (720p)
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+https://nl.presenccunderwell.xyz/uk_skysportscricket/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Others {MIXED}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",Star Sports 1 (540p)
+http://51.159.210.91/madstream.live/starsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Others {MIXED}" tvg-logo="https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",Star Sports Select 1 (1080p)
+http://180.178.188.152:8000/play/a018
