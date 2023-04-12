@@ -46,9 +46,7 @@ http://190.131.228.59:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="CityTV",City TV
 http://190.131.228.59:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="CRISTOVISION",Cristovisiðn
-http://190.131.228.59:8000/play/a0qy/index.m3u8
 #EXTINF:-1 tvg-id="DISCOV",Discovery Channel
-http://190.131.228.59:8000/play/a0qu/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelSD",Discovery Channel
 http://190.131.228.59:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERYH&H",Discovery H&H HD
@@ -56,7 +54,6 @@ http://190.131.228.59:8000/play/a0re/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERYHD",Discovery HD
 http://190.131.228.59:8000/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVKIDS",Discovery Kids
-http://190.131.228.59:8000/play/a0qt/index.m3u8
 #EXTINF:-1 tvg-id="DISCOVERKIDSHD",Discovery Kids HD
 http://190.131.228.59:8000/play/a0rd/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsca",Discovery Kids ca
@@ -86,9 +83,7 @@ http://190.131.228.59:8000/play/a0rg/index.m3u8
 #EXTINF:-1 tvg-id="ESPNCO",ESPN CO
 http://190.131.228.59:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="ENLACE",Enlace
-http://190.131.228.59:8000/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-id="EUROPA",Europa Europa
-http://190.131.228.59:8000/play/a0r4/index.m3u8
 #EXTINF:-1 tvg-id="FOX2HD",FOX Sports 2 HD
 http://190.131.228.59:8000/play/a0rh/index.m3u8
 #EXTINF:-1 tvg-id="FX",FX
@@ -164,7 +159,6 @@ http://190.131.228.59:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="TLC",TLC
 http://190.131.228.59:8000/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="TNT",TNT
-http://190.131.228.59:8000/play/a0r2/index.m3u8
 #EXTINF:-1 tvg-id="TNT",TNT
 http://190.131.228.59:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="TNTSPORT2",TNT SPORTS 2
