@@ -4,7 +4,6 @@
 #EXTINF:-1 tvg-id="A&EMundo",A&E Mundo
 http://190.131.228.59:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="AMCSD",AMC
-http://190.131.228.59:8000/play/a0r3/index.m3u8
 #EXTINF:-1 tvg-id="AMC HD",AMC HD
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
@@ -91,7 +90,6 @@ http://190.131.228.59:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="FXHD",FX HD
 http://190.131.228.59:8000/play/a0rk/index.m3u8
 #EXTINF:-1 tvg-id="FILM",Film&Arts
-http://190.131.228.59:8000/play/a0qv/index.m3u8
 #EXTINF:-1 tvg-id="FOX",Fox Sports
 http://190.131.228.59:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="FOXSPORT1",Fox Sports 1 HD
@@ -121,7 +119,6 @@ http://190.131.228.59:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel",History Channel
 http://190.131.228.59:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="HOLATV",Hola TV
-http://190.131.228.59:8000/play/a0qw/index.m3u8
 #EXTINF:-1 tvg-id="ISAT",I-Sat
 http://190.131.228.59:8000/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="LARED",La Red ca

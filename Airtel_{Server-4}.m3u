@@ -25,7 +25,6 @@ http://45.190.13.50:8002/play/a00c/index.m3u8
 #EXTINF:-1,Canal 5 HD
 http://45.190.13.50:8002/play/a01d/index.m3u8
 #EXTINF:-1,Caracol HD
-http://45.190.13.50:8002/play/a00q/index.m3u8
 #EXTINF:-1,Cine Latino
 http://45.190.13.50:8002/play/a01b/index.m3u8
 #EXTINF:-1,DTV
@@ -73,6 +72,7 @@ http://45.190.13.50:8002/play/a00s/index.m3u8
 #EXTINF:-1,Mega Clasicos HD
 http://45.190.13.50:8002/play/a00f/index.m3u8
 #EXTINF:-1,Multicinema
+http://45.190.13.50:8002/play/a018/index.m3u8
 #EXTINF:-1,Nasa 1 HD
 http://45.190.13.50:8002/play/a005/index.m3u8
 #EXTINF:-1,Nasa 2 HD
