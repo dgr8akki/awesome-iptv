@@ -1,0 +1,694 @@
+[
+  {
+    "name": "002. 11 - Repretel",
+    "url": "http://45.5.117.182:8000/play/a0g9/index.m3u8"
+  },
+  {
+    "name": "003. 13-Sinart",
+    "url": "http://45.5.117.182:8000/play/a0dI/index.m3u8"
+  },
+  {
+    "name": "004. 4 - Repretel",
+    "url": "http://45.5.117.182:8000/play/a0hl/index.m3u8"
+  },
+  {
+    "name": "005. 42 - Extra TV 42",
+    "url": "http://45.5.117.182:8000/play/a0e0/index.m3u8"
+  },
+  {
+    "name": "007. A&E",
+    "url": "http://45.5.117.182:8000/play/a0hr/index.m3u8"
+  },
+  {
+    "name": "008. A&E HD",
+    "url": "http://45.5.117.182:8000/play/a0fm/index.m3u8"
+  },
+  {
+    "name": "009. AMC",
+    "url": "http://45.5.117.182:8000/play/a0f5/index.m3u8"
+  },
+  {
+    "name": "010. AMC HD",
+    "url": "http://45.5.117.182:8000/play/a0fn/index.m3u8"
+  },
+  {
+    "name": "011. Animal Planet",
+    "url": "http://45.5.117.182:8000/play/a0hu/index.m3u8"
+  },
+  {
+    "name": "012. Animal Planet HD",
+    "url": "http://45.5.117.182:8000/play/a0fj/index.m3u8"
+  },
+  {
+    "name": "014. AXN",
+    "url": "http://45.5.117.182:8000/play/a0f9/index.m3u8"
+  },
+  {
+    "name": "015. AXN HD",
+    "url": "http://45.5.117.182:8000/play/a0ji/index.m3u8"
+  },
+  {
+    "name": "016. AZ click HD",
+    "url": "http://45.5.117.182:8000/play/a0ft/index.m3u8"
+  },
+  {
+    "name": "017. Azcorazon",
+    "url": "http://45.5.117.182:8000/play/a0eu/index.m3u8"
+  },
+  {
+    "name": "018. Azmundo",
+    "url": "http://45.5.117.182:8000/play/a0hn/index.m3u8"
+  },
+  {
+    "name": "019. Baby First",
+    "url": "http://45.5.117.182:8000/play/a0ga/index.m3u8"
+  },
+  {
+    "name": "020. BBC World",
+    "url": "http://45.5.117.182:8000/play/a0f7/index.m3u8"
+  },
+  {
+    "name": "021. Canal 11 - GUA",
+    "url": "http://45.5.117.182:8000/play/a0fz/index.m3u8"
+  },
+  {
+    "name": "022. Canal 13 - PAN",
+    "url": "http://45.5.117.182:8000/play/a0el/index.m3u8"
+  },
+  {
+    "name": "023. Canal 13-GUA",
+    "url": "http://45.5.117.182:8000/play/a0fy/index.m3u8"
+  },
+  {
+    "name": "024. Canal 2 - PAN",
+    "url": "http://45.5.117.182:8000/play/a0em/index.m3u8"
+  },
+  {
+    "name": "025. Canal 3 - GUA",
+    "url": "http://45.5.117.182:8000/play/a0hh/index.m3u8"
+  },
+  {
+    "name": "026. Canal 4 - PAN",
+    "url": "http://45.5.117.182:8000/play/a0iq/index.m3u8"
+  },
+  {
+    "name": "028. Canal Antigua - GUA",
+    "url": "http://45.5.117.182:8000/play/a0he/index.m3u8"
+  },
+  {
+    "name": "029. Canal Azteca - GUA",
+    "url": "http://45.5.117.182:8000/play/a0hf/index.m3u8"
+  },
+  {
+    "name": "030. Canal Claro",
+    "url": "http://45.5.117.182:8000/play/a0eg/index.m3u8"
+  },
+  {
+    "name": "031. Canal Claro HD",
+    "url": "http://45.5.117.182:8000/play/a0e6/index.m3u8"
+  },
+  {
+    "name": "032. Cartoon Network",
+    "url": "http://45.5.117.182:8000/play/a0en/index.m3u8"
+  },
+  {
+    "name": "033. CARTOON NT HD",
+    "url": "http://45.5.117.182:8000/play/a0e7/index.m3u8"
+  },
+  {
+    "name": "034. Cartoonito",
+    "url": "http://45.5.117.182:8000/play/a0ep/index.m3u8"
+  },
+  {
+    "name": "036. CDN37 - RD",
+    "url": "http://45.5.117.182:8000/play/a0hk/index.m3u8"
+  },
+  {
+    "name": "037. CERTV",
+    "url": "http://45.5.117.182:8000/play/a0in/index.m3u8"
+  },
+  {
+    "name": "038. Cine Latino",
+    "url": "http://45.5.117.182:8000/play/a0j5/index.m3u8"
+  },
+  {
+    "name": "039. CineCanal",
+    "url": "http://45.5.117.182:8000/play/a0j8/index.m3u8"
+  },
+  {
+    "name": "040. CINECANAL HD",
+    "url": "http://45.5.117.182:8000/play/a0i4/index.m3u8"
+  },
+  {
+    "name": "041 CineMax",
+    "url": "http://45.5.117.182:8000/play/a0j6/index.m3u8"
+  },
+  {
+    "name": "043. Claro Musica",
+    "url": "http://45.5.117.182:8000/play/a0gl/index.m3u8"
+  },
+  {
+    "name": "044. Claro Sports 2 HD",
+    "url": "http://45.5.117.182:8000/play/a0e5/index.m3u8"
+  },
+  {
+    "name": "045. Claro Sports 2 SD",
+    "url": "http://45.5.117.182:8000/play/a0gh/index.m3u8"
+  },
+  {
+    "name": "046. CNNE",
+    "url": "http://45.5.117.182:8000/play/a0f6/index.m3u8"
+  },
+  {
+    "name": "047. Color Vision 9 - RD",
+    "url": "http://45.5.117.182:8000/play/a0hj/index.m3u8"
+  },
+  {
+    "name": "048. Comedy Central HD",
+    "url": "http://45.5.117.182:8000/play/a0id/index.m3u8"
+  },
+  {
+    "name": "049. Concert Channel",
+    "url": "http://45.5.117.182:8000/play/a0j9/index.m3u8"
+  },
+  {
+    "name": "050. DHE",
+    "url": "http://45.5.117.182:8000/play/a0e2/index.m3u8"
+  },
+  {
+    "name": "051. DHE HD",
+    "url": "http://45.5.117.182:8000/play/a0fs/index.m3u8"
+  },
+  {
+    "name": "052. Digital 15 - RD",
+    "url": "http://45.5.117.182:8000/play/a0g0/index.m3u8"
+  },
+  {
+    "name": "053. DISC THEATHER HD",
+    "url": "http://45.5.117.182:8000/play/a0ia/index.m3u8"
+  },
+  {
+    "name": "054. Discovery Channel",
+    "url": "http://45.5.117.182:8000/play/a0ht/index.m3u8"
+  },
+  {
+    "name": "055. Discovery Channel HD",
+    "url": "http://45.5.117.182:8000/play/a0ju/index.m3u8"
+  },
+  {
+    "name": "056. Discovery Home & Health",
+    "url": "http://45.5.117.182:8000/play/a0iw/index.m3u8"
+  },
+  {
+    "name": "057. Discovery ID HD",
+    "url": "http://45.5.117.182:8000/play/a0jy/index.m3u8"
+  },
+  {
+    "name": "058. Discovery Kids",
+    "url": "http://45.5.117.182:8000/play/a0ir/index.m3u8"
+  },
+  {
+    "name": "059. Discovery Turbo",
+    "url": "http://45.5.117.182:8000/play/a0iS/index.m3u8"
+  },
+  {
+    "name": "059. Discovery Turbo",
+    "url": "http://45.5.117.182:8000/play/a0ik/index.m3u8"
+  },
+  {
+    "name": "060. Discovery World HD",
+    "url": "http://45.5.117.182:8000/play/a0jv/index.m3u8"
+  },
+  {
+    "name": "061. Disney",
+    "url": "http://45.5.117.182:8000/play/a0it/index.m3u8"
+  },
+  {
+    "name": "062. Disney JR",
+    "url": "http://45.5.117.182:8000/play/a0eq/index.m3u8"
+  },
+  {
+    "name": "063. E!",
+    "url": "http://45.5.117.182:8000/play/a0hq/index.m3u8"
+  },
+  {
+    "name": "064. E! Entertairment HD",
+    "url": "http://45.5.117.182:8000/play/a0fk/index.m3u8"
+  },
+  {
+    "name": "065. El Gourmet",
+    "url": "http://45.5.117.182:8000/play/a0gz/index.m3u8"
+  },
+  {
+    "name": "066. ESPN",
+    "url": "http://45.5.117.182:8000/play/a0hx/index.m3u8"
+  },
+  {
+    "name": "067. ESPN  +",
+    "url": "http://45.5.117.182:8000/play/a0fc/index.m3u8"
+  },
+  {
+    "name": "068. ESPN 2",
+    "url": "http://45.5.117.182:8000/play/a0hy/index.m3u8"
+  },
+  {
+    "name": "069. ESPN 2 HD",
+    "url": "http://45.5.117.182:8000/play/a0jp/index.m3u8"
+  },
+  {
+    "name": "070. ESPN 3",
+    "url": "http://45.5.117.182:8000/play/a0gi/index.m3u8"
+  },
+  {
+    "name": "071. ESPN 3 HD",
+    "url": "http://45.5.117.182:8000/play/a0jo/index.m3u8"
+  },
+  {
+    "name": "072. ESPN 4",
+    "url": "http://45.5.117.182:8000/play/a0iz/index.m3u8"
+  },
+  {
+    "name": "073. ESPN 4  HD",
+    "url": "http://45.5.117.182:8000/play/a0jh/index.m3u8"
+  },
+  {
+    "name": "074. ESPN HD",
+    "url": "http://45.5.117.182:8000/play/a0jn/index.m3u8"
+  },
+  {
+    "name": "075. EURO Channel",
+    "url": "http://45.5.117.182:8000/play/a0gd/index.m3u8"
+  },
+  {
+    "name": "076. Europa HD",
+    "url": "http://45.5.117.182:8000/play/a0fq/index.m3u8"
+  },
+  {
+    "name": "077. EWTN",
+    "url": "http://45.5.117.182:8000/play/a0fa/index.m3u8"
+  },
+  {
+    "name": "078. Exa TV",
+    "url": "http://45.5.117.182:8000/play/a0hz/index.m3u8"
+  },
+  {
+    "name": "079. Film & Arts",
+    "url": "http://45.5.117.182:8000/play/a0e1/index.m3u8"
+  },
+  {
+    "name": "080. Film & arts HD",
+    "url": "http://45.5.117.182:8000/play/a0fl/index.m3u8"
+  },
+  {
+    "name": "081. Fox Sport 3",
+    "url": "http://45.5.117.182:8000/play/a0f0/index.m3u8"
+  },
+  {
+    "name": "082. FOX Sports 2",
+    "url": "http://45.5.117.182:8000/play/a0gj/index.m3u8"
+  },
+  {
+    "name": "083. FOX SPORTS 2 HD",
+    "url": "http://45.5.117.182:8000/play/a0i8/index.m3u8"
+  },
+  {
+    "name": "084. FOX SPORTS 3 HD",
+    "url": "http://45.5.117.182:8000/play/a0jq/index.m3u8"
+  },
+  {
+    "name": "085. France24",
+    "url": "http://45.5.117.182:8000/play/a0f8/index.m3u8"
+  },
+  {
+    "name": "086. FUTV CR",
+    "url": "http://45.5.117.182:8000/play/a0io/index.m3u8"
+  },
+  {
+    "name": "087. FUTV HD CR",
+    "url": "http://45.5.117.182:8000/play/a0jm/index.m3u8"
+  },
+  {
+    "name": "088. FX",
+    "url": "http://45.5.117.182:8000/play/a0gb/index.m3u8"
+  },
+  {
+    "name": "089. FX HD",
+    "url": "http://45.5.117.182:8000/play/a0fp/index.m3u8"
+  },
+  {
+    "name": "090. Golden",
+    "url": "http://45.5.117.182:8000/play/a0go/index.m3u8"
+  },
+  {
+    "name": "091. Golf Channel HD",
+    "url": "http://45.5.117.182:8000/play/a0fv/index.m3u8"
+  },
+  {
+    "name": "092. Guatevision - GUA",
+    "url": "http://45.5.117.182:8000/play/a0eh/index.m3u8"
+  },
+  {
+    "name": "093. H2",
+    "url": "http://45.5.117.182:8000/play/a0ge/index.m3u8"
+  },
+  {
+    "name": "094. HBO Family HD",
+    "url": "http://45.5.117.182:8000/play/a0ec/index.m3u8"
+  },
+  {
+    "name": "095. HBO HD",
+    "url": "http://45.5.117.182:8000/play/a0e8/index.m3u8"
+  },
+  {
+    "name": "096. HBO Plus HD",
+    "url": "http://45.5.117.182:8000/play/a0ea/index.m3u8"
+  },
+  {
+    "name": "098. HBO2 HD",
+    "url": "http://45.5.117.182:8000/play/a0eP/index.m3u8"
+  },
+  {
+    "name": "098. HBO2 HD",
+    "url": "http://45.5.117.182:8000/play/a0et/index.m3u8"
+  },
+  {
+    "name": "099. History Channel",
+    "url": "http://45.5.117.182:8000/play/a0hv/index.m3u8"
+  },
+  {
+    "name": "100 History HD",
+    "url": "http://45.5.117.182:8000/play/a0fb/index.m3u8"
+  },
+  {
+    "name": "101. HOLA! TV HD",
+    "url": "http://45.5.117.182:8000/play/a0ic/index.m3u8"
+  },
+  {
+    "name": "103. HTV",
+    "url": "http://45.5.117.182:8000/play/a0gn/index.m3u8"
+  },
+  {
+    "name": "104. ID",
+    "url": "http://45.5.117.182:8000/play/a0ix/index.m3u8"
+  },
+  {
+    "name": "105. ISAT",
+    "url": "http://45.5.117.182:8000/play/a0j3/index.m3u8"
+  },
+  {
+    "name": "106. La voz de Maria",
+    "url": "http://45.5.117.182:8000/play/a0iy/index.m3u8"
+  },
+  {
+    "name": "108. LIFE TIME",
+    "url": "http://45.5.117.182:8000/play/a0ez/index.m3u8"
+  },
+  {
+    "name": "109. MASTV - PAN",
+    "url": "http://45.5.117.182:8000/play/a0g6/index.m3u8"
+  },
+  {
+    "name": "110. MTV",
+    "url": "http://45.5.117.182:8000/play/a0j0/index.m3u8"
+  },
+  {
+    "name": "111. MTV 00s",
+    "url": "http://45.5.117.182:8000/play/a0gm/index.m3u8"
+  },
+  {
+    "name": "112. MTV 00s HD",
+    "url": "http://45.5.117.182:8000/play/a0if/index.m3u8"
+  },
+  {
+    "name": "113. MTV 80s",
+    "url": "http://45.5.117.182:8000/play/a0f2/index.m3u8"
+  },
+  {
+    "name": "114. MTV HD",
+    "url": "http://45.5.117.182:8000/play/a0fd/index.m3u8"
+  },
+  {
+    "name": "115. MTV Hits",
+    "url": "http://45.5.117.182:8000/play/a0f1/index.m3u8"
+  },
+  {
+    "name": "116. MTV SIM HD",
+    "url": "http://45.5.117.182:8000/play/a0ie/index.m3u8"
+  },
+  {
+    "name": "117. Multimedios",
+    "url": "http://45.5.117.182:8000/play/a0dy/index.m3u8"
+  },
+  {
+    "name": "118. Multipremier",
+    "url": "http://45.5.117.182:8000/play/a0j4/index.m3u8"
+  },
+  {
+    "name": "119. Nat Geo HD",
+    "url": "http://45.5.117.182:8000/play/a0jr/index.m3u8"
+  },
+  {
+    "name": "120. National Geographic",
+    "url": "http://45.5.117.182:8000/play/a0ey/index.m3u8"
+  },
+  {
+    "name": "121. NEXT - PAN",
+    "url": "http://45.5.117.182:8000/play/a0g5/index.m3u8"
+  },
+  {
+    "name": "122. Nick Jr",
+    "url": "http://45.5.117.182:8000/play/a0eo/index.m3u8"
+  },
+  {
+    "name": "123. Nick SIM HD",
+    "url": "http://45.5.117.182:8000/play/a0i7/index.m3u8"
+  },
+  {
+    "name": "124. Nickelodeon",
+    "url": "http://45.5.117.182:8000/play/a0is/index.m3u8"
+  },
+  {
+    "name": "125. Paramount",
+    "url": "http://45.5.117.182:8000/play/a0e3/index.m3u8"
+  },
+  {
+    "name": "127. Pasiones HD",
+    "url": "http://45.5.117.182:8000/play/a0jw/index.m3u8"
+  },
+  {
+    "name": "128. Playboy",
+    "url": "http://45.5.117.182:8000/play/a0ed/index.m3u8"
+  },
+  {
+    "name": "129. RCN Novelas",
+    "url": "http://45.5.117.182:8000/play/a0gk/index.m3u8"
+  },
+  {
+    "name": "130. RHEMA TV",
+    "url": "http://45.5.117.182:8000/play/a0jg/index.m3u8"
+  },
+  {
+    "name": "131. Sembrador",
+    "url": "http://45.5.117.182:8000/play/a0gt/index.m3u8"
+  },
+  {
+    "name": "132. SEMILLITAS",
+    "url": "http://45.5.117.182:8000/play/a0er/index.m3u8"
+  },
+  {
+    "name": "133. SONY",
+    "url": "http://45.5.117.182:8000/play/a0ho/index.m3u8"
+  },
+  {
+    "name": "134. SONY HD",
+    "url": "http://45.5.117.182:8000/play/a0i3/index.m3u8"
+  },
+  {
+    "name": "135. Sony Movies HD",
+    "url": "http://45.5.117.182:8000/play/a0fr/index.m3u8"
+  },
+  {
+    "name": "136. SPACE",
+    "url": "http://45.5.117.182:8000/play/a0ev/index.m3u8"
+  },
+  {
+    "name": "137. SPACE HD",
+    "url": "http://45.5.117.182:8000/play/a0jj/index.m3u8"
+  },
+  {
+    "name": "138. STAR CHANNEL",
+    "url": "http://45.5.117.182:8000/play/a0iu/index.m3u8"
+  },
+  {
+    "name": "139. STAR CHANNEL HD",
+    "url": "http://45.5.117.182:8000/play/a0i1/index.m3u8"
+  },
+  {
+    "name": "140. Star TVE HD",
+    "url": "http://45.5.117.182:8000/play/a0fu/index.m3u8"
+  },
+  {
+    "name": "141. Studio Universal",
+    "url": "http://45.5.117.182:8000/play/a0j7/index.m3u8"
+  },
+  {
+    "name": "142. Studio Universal HD",
+    "url": "http://45.5.117.182:8000/play/a0fh/index.m3u8"
+  },
+  {
+    "name": "143. Sun Channel",
+    "url": "http://45.5.117.182:8000/play/a0gg/index.m3u8"
+  },
+  {
+    "name": "144. SyFy",
+    "url": "http://45.5.117.182:8000/play/a0hs/index.m3u8"
+  },
+  {
+    "name": "146. TBS",
+    "url": "http://45.5.117.182:8000/play/a0ex/index.m3u8"
+  },
+  {
+    "name": "147. TCM",
+    "url": "http://45.5.117.182:8000/play/a0gp/index.m3u8"
+  },
+  {
+    "name": "148. Teen Nick HD",
+    "url": "http://45.5.117.182:8000/play/a0fg/index.m3u8"
+  },
+  {
+    "name": "150. Telecentro - RD",
+    "url": "http://45.5.117.182:8000/play/a0g3/index.m3u8"
+  },
+  {
+    "name": "151. TeleMicro - RD",
+    "url": "http://45.5.117.182:8000/play/a0hi/index.m3u8"
+  },
+  {
+    "name": "153. Telemundo HD",
+    "url": "http://45.5.117.182:8000/play/a0fo/index.m3u8"
+  },
+  {
+    "name": "154. Telesistema RD",
+    "url": "http://45.5.117.182:8000/play/a0ek/index.m3u8"
+  },
+  {
+    "name": "155. Teleunion - RD",
+    "url": "http://45.5.117.182:8000/play/a0g4/index.m3u8"
+  },
+  {
+    "name": "156. Teleuniverso - RD",
+    "url": "http://45.5.117.182:8000/play/a0g2/index.m3u8"
+  },
+  {
+    "name": "158. TLC",
+    "url": "http://45.5.117.182:8000/play/a0hw/index.m3u8"
+  },
+  {
+    "name": "159. TNT",
+    "url": "http://45.5.117.182:8000/play/a0f4/index.m3u8"
+  },
+  {
+    "name": "160. TNT HD",
+    "url": "http://45.5.117.182:8000/play/a0i9/index.m3u8"
+  },
+  {
+    "name": "161. TNT Series",
+    "url": "http://45.5.117.182:8000/play/a0ew/index.m3u8"
+  },
+  {
+    "name": "162. TNT Series HD",
+    "url": "http://45.5.117.182:8000/play/a0jt/index.m3u8"
+  },
+  {
+    "name": "163. Tooncast",
+    "url": "http://45.5.117.182:8000/play/a0hm/index.m3u8"
+  },
+  {
+    "name": "164. Tru TV",
+    "url": "http://45.5.117.182:8000/play/a0es/index.m3u8"
+  },
+  {
+    "name": "165. TV  Max - PAN",
+    "url": "http://45.5.117.182:8000/play/a0ip/index.m3u8"
+  },
+  {
+    "name": "166. Universal",
+    "url": "http://45.5.117.182:8000/play/a0j2/index.m3u8"
+  },
+  {
+    "name": "167. UNIVERSAL CINEMA ESTE HD",
+    "url": "http://45.5.117.182:8000/play/a0jz/index.m3u8"
+  },
+  {
+    "name": "169. UNIVERSAL CRIME HD",
+    "url": "http://45.5.117.182:8000/play/a0ij/index.m3u8"
+  },
+  {
+    "name": "170. UNIVERSAL PREMIERE HD",
+    "url": "http://45.5.117.182:8000/play/a0ig/index.m3u8"
+  },
+  {
+    "name": "171. UNIVERSAL PREMIERE O HD",
+    "url": "http://45.5.117.182:8000/play/a0ih/index.m3u8"
+  },
+  {
+    "name": "172. UNIVERSAL REALITY HD",
+    "url": "http://45.5.117.182:8000/play/a0ii/index.m3u8"
+  },
+  {
+    "name": "173. Univision HD",
+    "url": "http://45.5.117.182:8000/play/a0jx/index.m3u8"
+  },
+  {
+    "name": "174. VENUS",
+    "url": "http://45.5.117.182:8000/play/a0gu/index.m3u8"
+  },
+  {
+    "name": "175. Warner",
+    "url": "http://45.5.117.182:8000/play/a0hp/index.m3u8"
+  },
+  {
+    "name": "176. WARNER HD",
+    "url": "http://45.5.117.182:8000/play/a0i2/index.m3u8"
+  },
+  {
+    "name": "178. TVE",
+    "url": "http://45.5.117.182:8000/play/a0k2/index.m3u8"
+  },
+  {
+    "name": "179. TLNOVELAS",
+    "url": "http://45.5.117.182:8000/play/a0k7/index.m3u8"
+  },
+  {
+    "name": "180. SKY",
+    "url": "http://45.5.117.182:8000/play/slk9/index.m3u8"
+  },
+  {
+    "name": "181. BANDAMAX",
+    "url": "http://45.5.117.182:8000/play/a0k5/index.m3u8"
+  },
+  {
+    "name": "182. DISTRITO COMEDIA",
+    "url": "http://45.5.117.182:8000/play/a0k6/index.m3u8"
+  },
+  {
+    "name": "183. PLAY DIGITAL",
+    "url": "http://45.5.117.182:8000/play/pcas/index.m3u8"
+  },
+  {
+    "name": "184. CANAL DE LAS ESTRELLA",
+    "url": "http://45.5.117.182:8000/play/ajh0/index.m3u8"
+  },
+  {
+    "name": "185. TOTOVISION",
+    "url": "http://45.5.117.182:8000/play/ojkl/index.m3u8"
+  },
+  {
+    "name": "186. TN23",
+    "url": "http://45.5.117.182:8000/play/kix0/index.m3u8"
+  },
+  {
+    "name": "187. Canal 7 Gua",
+    "url": "http://45.5.117.182:8000/play/zko1/index.m3u8"
+  }
+]

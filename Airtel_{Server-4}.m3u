@@ -1,5 +1,5 @@
 #EXTM3U
-# Collected And Uploaded By (https://www.github.com/sabbiriptv)
+# Collected And Uploaded By (https://www.github.com/dgr8akki)
 
 #EXTINF:-1,A&E HD
 http://45.190.13.50:8002/play/a01a/index.m3u8
@@ -20,6 +20,7 @@ http://45.190.13.50:8002/play/a00e/index.m3u8
 #EXTINF:-1,CCI
 http://45.190.13.50:8002/play/a00h/index.m3u8
 #EXTINF:-1,CH TV
+http://45.190.13.50:8002/play/a00b/index.m3u8
 #EXTINF:-1,Canal 11 HN
 http://45.190.13.50:8002/play/a00c/index.m3u8
 #EXTINF:-1,Canal 5 HD
@@ -97,6 +98,7 @@ http://45.190.13.50:8002/play/a008/index.m3u8
 #EXTINF:-1,TEN 10 HD
 http://45.190.13.50:8002/play/a009/index.m3u8
 #EXTINF:-1,TNH 8 HD
+http://45.190.13.50:8002/play/a016/index.m3u8
 #EXTINF:-1,TSI HD
 http://45.190.13.50:8002/play/a011/index.m3u8
 #EXTINF:-1,TUDN HD

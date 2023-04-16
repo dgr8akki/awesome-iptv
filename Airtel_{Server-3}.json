@@ -1,0 +1,414 @@
+[
+  {
+    "name": "A&E Mundo",
+    "url": "http://190.131.228.59:8000/play/a05x/index.m3u8"
+  },
+  {
+    "name": "AMC",
+    "url": "http://190.131.228.59:8000/play/a0r3/index.m3u8"
+  },
+  {
+    "name": "AMC HD",
+    "url": "http://190.131.228.59:8000/play/a0jc/index.m3u8"
+  },
+  {
+    "name": "AXN",
+    "url": "http://190.131.228.59:8000/play/a04i/index.m3u8"
+  },
+  {
+    "name": "Animal Planet",
+    "url": "http://190.131.228.59:8000/play/a05o/index.m3u8"
+  },
+  {
+    "name": "Animal Planet HD",
+    "url": "http://190.131.228.59:8000/play/a0rq/index.m3u8"
+  },
+  {
+    "name": "CNN Chile ca",
+    "url": "http://190.131.228.59:8000/play/a045/index.m3u8"
+  },
+  {
+    "name": "CNN Espanol",
+    "url": "http://190.131.228.59:8000/play/a052/index.m3u8"
+  },
+  {
+    "name": "Canal Caracol",
+    "url": "http://190.131.228.59:8000/play/a005/index.m3u8"
+  },
+  {
+    "name": "Canal Institucional",
+    "url": "http://190.131.228.59:8000/play/a008/index.m3u8"
+  },
+  {
+    "name": "Canal RCN",
+    "url": "http://190.131.228.59:8000/play/a006/index.m3u8"
+  },
+  {
+    "name": "Canal Uno",
+    "url": "http://190.131.228.59:8000/play/a003/index.m3u8"
+  },
+  {
+    "name": "Canal de Las estrellas",
+    "url": "http://190.131.228.59:8000/play/a064/index.m3u8"
+  },
+  {
+    "name": "Canal del Congreso",
+    "url": "http://190.131.228.59:8000/play/a009/index.m3u8"
+  },
+  {
+    "name": "Capital",
+    "url": "http://190.131.228.59:8000/play/a00h/index.m3u8"
+  },
+  {
+    "name": "Caracol HD",
+    "url": "http://190.131.228.59:8000/play/a0r7/index.m3u8"
+  },
+  {
+    "name": "Cartoon Network",
+    "url": "http://190.131.228.59:8000/play/a049/index.m3u8"
+  },
+  {
+    "name": "Cartoon Network HD",
+    "url": "http://190.131.228.59:8000/play/a0je/index.m3u8"
+  },
+  {
+    "name": "Cinecanal",
+    "url": "http://190.131.228.59:8000/play/a03z/index.m3u8"
+  },
+  {
+    "name": "Cinecanal HD",
+    "url": "http://190.131.228.59:8000/play/a0ro/index.m3u8"
+  },
+  {
+    "name": "Cinemax",
+    "url": "http://190.131.228.59:8000/play/a04g/index.m3u8"
+  },
+  {
+    "name": "City TV",
+    "url": "http://190.131.228.59:8000/play/a00g/index.m3u8"
+  },
+  {
+    "name": "Cristovisiðn",
+    "url": "http://190.131.228.59:8000/play/a0qy/index.m3u8"
+  },
+  {
+    "name": "Discovery Channel",
+    "url": "http://190.131.228.59:8000/play/a0qu/index.m3u8"
+  },
+  {
+    "name": "Discovery Channel",
+    "url": "http://190.131.228.59:8000/play/a05n/index.m3u8"
+  },
+  {
+    "name": "Discovery H&H HD",
+    "url": "http://190.131.228.59:8000/play/a0re/index.m3u8"
+  },
+  {
+    "name": "Discovery HD",
+    "url": "http://190.131.228.59:8000/play/a0j2/index.m3u8"
+  },
+  {
+    "name": "Discovery Kids",
+    "url": "http://190.131.228.59:8000/play/a0qt/index.m3u8"
+  },
+  {
+    "name": "Discovery Kids HD",
+    "url": "http://190.131.228.59:8000/play/a0rd/index.m3u8"
+  },
+  {
+    "name": "Discovery Kids ca",
+    "url": "http://190.131.228.59:8000/play/a06y/index.m3u8"
+  },
+  {
+    "name": "Discovery Theater HD",
+    "url": "http://190.131.228.59:8000/play/a0rf/index.m3u8"
+  },
+  {
+    "name": "Discovery Turbo",
+    "url": "http://190.131.228.59:8000/play/a04t/index.m3u8"
+  },
+  {
+    "name": "Discovery World HD",
+    "url": "http://190.131.228.59:8000/play/a0rn/index.m3u8"
+  },
+  {
+    "name": "Disney Channel",
+    "url": "http://190.131.228.59:8000/play/a05m/index.m3u8"
+  },
+  {
+    "name": "Disney Jr",
+    "url": "http://190.131.228.59:8000/play/a05i/index.m3u8"
+  },
+  {
+    "name": "E Entertainment",
+    "url": "http://190.131.228.59:8000/play/a05q/index.m3u8"
+  },
+  {
+    "name": "ESPN 2",
+    "url": "http://190.131.228.59:8000/play/a0hn/index.m3u8"
+  },
+  {
+    "name": "ESPN 2",
+    "url": "http://190.131.228.59:8000/play/a05k/index.m3u8"
+  },
+  {
+    "name": "ESPN 2 Latin ca",
+    "url": "http://190.131.228.59:8000/play/a05s/index.m3u8"
+  },
+  {
+    "name": "ESPN 3",
+    "url": "http://190.131.228.59:8000/play/a04v/index.m3u8"
+  },
+  {
+    "name": "ESPN 4 HD",
+    "url": "http://190.131.228.59:8000/play/a0rg/index.m3u8"
+  },
+  {
+    "name": "ESPN CO",
+    "url": "http://190.131.228.59:8000/play/a00c/index.m3u8"
+  },
+  {
+    "name": "Enlace",
+    "url": "http://190.131.228.59:8000/play/a0qx/index.m3u8"
+  },
+  {
+    "name": "Europa Europa",
+    "url": "http://190.131.228.59:8000/play/a0r4/index.m3u8"
+  },
+  {
+    "name": "FOX Sports 2 HD",
+    "url": "http://190.131.228.59:8000/play/a0rh/index.m3u8"
+  },
+  {
+    "name": "FX",
+    "url": "http://190.131.228.59:8000/play/a04k/index.m3u8"
+  },
+  {
+    "name": "FX HD",
+    "url": "http://190.131.228.59:8000/play/a0rk/index.m3u8"
+  },
+  {
+    "name": "Film&Arts",
+    "url": "http://190.131.228.59:8000/play/a0qv/index.m3u8"
+  },
+  {
+    "name": "Fox Sports",
+    "url": "http://190.131.228.59:8000/play/a05r/index.m3u8"
+  },
+  {
+    "name": "Fox Sports 1 HD",
+    "url": "http://190.131.228.59:8000/play/a0j3/index.m3u8"
+  },
+  {
+    "name": "Fox Sports 2",
+    "url": "http://190.131.228.59:8000/play/a065/index.m3u8"
+  },
+  {
+    "name": "Fox Sports 3",
+    "url": "http://190.131.228.59:8000/play/a066/index.m3u8"
+  },
+  {
+    "name": "GOL TV",
+    "url": "http://190.131.228.59:8000/play/a05u/index.m3u8"
+  },
+  {
+    "name": "HBO",
+    "url": "http://190.131.228.59:8000/play/a09a/index.m3u8"
+  },
+  {
+    "name": "HBO 2",
+    "url": "http://190.131.228.59:8000/play/a08j/index.m3u8"
+  },
+  {
+    "name": "HBO 2 HD",
+    "url": "http://190.131.228.59:8000/play/a0jh/index.m3u8"
+  },
+  {
+    "name": "HBO Family",
+    "url": "http://190.131.228.59:8000/play/a05h/index.m3u8"
+  },
+  {
+    "name": "HBO Family HD",
+    "url": "http://190.131.228.59:8000/play/a0j5/index.m3u8"
+  },
+  {
+    "name": "HBO HD",
+    "url": "http://190.131.228.59:8000/play/a0rp/index.m3u8"
+  },
+  {
+    "name": "HBO Plus",
+    "url": "http://190.131.228.59:8000/play/a05f/index.m3u8"
+  },
+  {
+    "name": "HBO XTREME SD",
+    "url": "http://190.131.228.59:8000/play/a05g/index.m3u8"
+  },
+  {
+    "name": "History Channel",
+    "url": "http://190.131.228.59:8000/play/a03y/index.m3u8"
+  },
+  {
+    "name": "Hola TV",
+    "url": "http://190.131.228.59:8000/play/a0qw/index.m3u8"
+  },
+  {
+    "name": "I-Sat",
+    "url": "http://190.131.228.59:8000/play/a0ht/index.m3u8"
+  },
+  {
+    "name": "La Red ca",
+    "url": "http://190.131.228.59:8000/play/a053/index.m3u8"
+  },
+  {
+    "name": "Lifetime",
+    "url": "http://190.131.228.59:8000/play/a0hw/index.m3u8"
+  },
+  {
+    "name": "MTV",
+    "url": "http://190.131.228.59:8000/play/a042/index.m3u8"
+  },
+  {
+    "name": "Nat Geo",
+    "url": "http://190.131.228.59:8000/play/a03x/index.m3u8"
+  },
+  {
+    "name": "Nat Geo HD",
+    "url": "http://190.131.228.59:8000/play/a0j9/index.m3u8"
+  },
+  {
+    "name": "Nick Jr",
+    "url": "http://190.131.228.59:8000/play/a09b/index.m3u8"
+  },
+  {
+    "name": "Nickelodeon",
+    "url": "http://190.131.228.59:8000/play/a03v/index.m3u8"
+  },
+  {
+    "name": "Paramount HD",
+    "url": "http://190.131.228.59:8000/play/a0jf/index.m3u8"
+  },
+  {
+    "name": "RCN HD",
+    "url": "http://190.131.228.59:8000/play/a0rm/index.m3u8"
+  },
+  {
+    "name": "STAR CHANNEL",
+    "url": "http://190.131.228.59:8000/play/a08r/index.m3u8"
+  },
+  {
+    "name": "Senal Colombia",
+    "url": "http://190.131.228.59:8000/play/a00a/index.m3u8"
+  },
+  {
+    "name": "Sony",
+    "url": "http://190.131.228.59:8000/play/a04h/index.m3u8"
+  },
+  {
+    "name": "Space",
+    "url": "http://190.131.228.59:8000/play/a04j/index.m3u8"
+  },
+  {
+    "name": "Studio Universal",
+    "url": "http://190.131.228.59:8000/play/a0i0/index.m3u8"
+  },
+  {
+    "name": "Studio Universal HD",
+    "url": "http://190.131.228.59:8000/play/a0jg/index.m3u8"
+  },
+  {
+    "name": "TCM",
+    "url": "http://190.131.228.59:8000/play/a06z/index.m3u8"
+  },
+  {
+    "name": "TLC",
+    "url": "http://190.131.228.59:8000/play/a062/index.m3u8"
+  },
+  {
+    "name": "TNT",
+    "url": "http://190.131.228.59:8000/play/a0r2/index.m3u8"
+  },
+  {
+    "name": "TNT",
+    "url": "http://190.131.228.59:8000/play/a04a/index.m3u8"
+  },
+  {
+    "name": "TNT SPORTS 2",
+    "url": "http://190.131.228.59:8000/play/a059/index.m3u8"
+  },
+  {
+    "name": "TNT Series HD",
+    "url": "http://190.131.228.59:8000/play/a0rj/index.m3u8"
+  },
+  {
+    "name": "TRO",
+    "url": "http://190.131.228.59:8000/play/a00e/index.m3u8"
+  },
+  {
+    "name": "TV+ HD",
+    "url": "http://190.131.228.59:8000/play/a0do/index.m3u8"
+  },
+  {
+    "name": "TVE",
+    "url": "http://190.131.228.59:8000/play/a04e/index.m3u8"
+  },
+  {
+    "name": "Teleantioquia",
+    "url": "http://190.131.228.59:8000/play/a04l/index.m3u8"
+  },
+  {
+    "name": "Telecafe",
+    "url": "http://190.131.228.59:8000/play/a04y/index.m3u8"
+  },
+  {
+    "name": "Telecaribe",
+    "url": "http://190.131.228.59:8000/play/a04w/index.m3u8"
+  },
+  {
+    "name": "Telefe ca",
+    "url": "http://190.131.228.59:8000/play/a04p/index.m3u8"
+  },
+  {
+    "name": "Telefuturo",
+    "url": "http://190.131.228.59:8000/play/a0hy/index.m3u8"
+  },
+  {
+    "name": "Teleislas",
+    "url": "http://190.131.228.59:8000/play/a00f/index.m3u8"
+  },
+  {
+    "name": "Telemundo",
+    "url": "http://190.131.228.59:8000/play/a067/index.m3u8"
+  },
+  {
+    "name": "Telepacifico",
+    "url": "http://190.131.228.59:8000/play/a04n/index.m3u8"
+  },
+  {
+    "name": "TyC Sports",
+    "url": "http://190.131.228.59:8000/play/a05v/index.m3u8"
+  },
+  {
+    "name": "Universal",
+    "url": "http://190.131.228.59:8000/play/a040/index.m3u8"
+  },
+  {
+    "name": "Warner",
+    "url": "http://190.131.228.59:8000/play/a05p/index.m3u8"
+  },
+  {
+    "name": "Win Sports",
+    "url": "http://190.131.228.59:8000/play/a04m/index.m3u8"
+  },
+  {
+    "name": "Win Sports+ HD",
+    "url": "http://190.131.228.59:8000/play/a0e2/index.m3u8"
+  },
+  {
+    "name": "Zona Latina",
+    "url": "http://190.131.228.59:8000/play/a043/index.m3u8"
+  },
+  {
+    "name": "Zoom",
+    "url": "http://190.131.228.59:8000/play/a00d/index.m3u8"
+  }
+]

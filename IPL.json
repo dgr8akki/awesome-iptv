@@ -1,0 +1,122 @@
+[
+  {
+    "name": "{INDIA} ENGLISH (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=English.m3u8"
+  },
+  {
+    "name": "{INDIA} HINDI (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=Hindi.m3u8"
+  },
+  {
+    "name": "{INDIA} BENGALI (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=Bengali.m3u8"
+  },
+  {
+    "name": "{INDIA} GUJRATI (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=Gujrati.m3u8"
+  },
+  {
+    "name": "{INDIA} TAMIL (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=Tamil.m3u8"
+  },
+  {
+    "name": "{INDIA} TELUGU (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=Telugu.m3u8"
+  },
+  {
+    "name": "{INDIA} MALYALAM (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=Malyalam.m3u8"
+  },
+  {
+    "name": "{INDIA} KANNADA (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=Kannada.m3u8"
+  },
+  {
+    "name": "{INDIA} MARATHI (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=Marathi.m3u8"
+  },
+  {
+    "name": "{INDIA} BHOJPURI (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=Bhojpuri.m3u8"
+  },
+  {
+    "name": "{INDIA} ODIA (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=Odia.m3u8"
+  },
+  {
+    "name": "{INDIA} PUNJABI (AUTO)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "VOOT {INDIA}",
+    "url": "https://voot.sabbirhasan3.repl.co/app/master.php?id=Punjabi.m3u8"
+  },
+  {
+    "name": "Astro Cricket (720p)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "Daddy {GLOBAL}",
+    "url": "#EXTVLCOPT:http-referrer=https://player.licenses4.me/"
+  },
+  {
+    "name": "Willow Cricket (720p)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "Daddy {GLOBAL}",
+    "url": "#EXTVLCOPT:http-referrer=https://player.licenses4.me/"
+  },
+  {
+    "name": "Sky Sports Cricket (576p)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "Daddy {GLOBAL}",
+    "url": "#EXTVLCOPT:http-referrer=https://player.licenses4.me/"
+  },
+  {
+    "name": "FOX 501 (720p-60FPS)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "Daddy {GLOBAL}",
+    "url": "#EXTVLCOPT:http-referrer=https://player.licenses4.me/"
+  },
+  {
+    "name": "{VPN} Sky Sports Main Event (720p)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "AESport {VPN}",
+    "url": "#EXTVLCOPT:http-referrer=https://aesport.tv/"
+  },
+  {
+    "name": "{VPN} Sky Sports Cricket (720p)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "AESport {VPN}",
+    "url": "#EXTVLCOPT:http-referrer=https://aesport.tv/"
+  },
+  {
+    "name": "Star Sports 1 (540p)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "Others {MIXED}",
+    "url": "http://51.159.210.91/madstream.live/starsports1/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Star Sports Select 1 (1080p)",
+    "logoUrl": "https://images.indiafantasy.com/wp-content/uploads/20230227174819/IPL-all-team-logo.jpg",
+    "groupTitle": "Others {MIXED}",
+    "url": "http://180.178.188.152:8000/play/a018"
+  }
+]

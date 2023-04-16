@@ -1,0 +1,140 @@
+[
+  {
+    "name": "SET HD",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8"
+  },
+  {
+    "name": "Sony SAB HD",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8"
+  },
+  {
+    "name": "Sony PAL",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8"
+  },
+  {
+    "name": "Sony YAY",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8"
+  },
+  {
+    "name": "Sony Marathi",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8"
+  },
+  {
+    "name": "Sony AATH",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8"
+  },
+  {
+    "name": "Sony MAX HD",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8"
+  },
+  {
+    "name": "Sony MAX",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/Sony_MAX.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8"
+  },
+  {
+    "name": "Sony WAH",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/Sony_WAH.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8"
+  },
+  {
+    "name": "Sony MAX2",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8"
+  },
+  {
+    "name": "Sony PIX HD",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8"
+  },
+  {
+    "name": "Sony BBC Earth HD",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8"
+  },
+  {
+    "name": "Sony TEN 1",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8"
+  },
+  {
+    "name": "Sony TEN 2",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
+  },
+  {
+    "name": "Sony TEN 3",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8"
+  },
+  {
+    "name": "Sony TEN 4",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8"
+  },
+  {
+    "name": "Sony TEN 5",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8"
+  },
+  {
+    "name": "Sony TEN 1 HD",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8"
+  },
+  {
+    "name": "Sony  TEN 2 HD",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8"
+  },
+  {
+    "name": "Sony TEN 3 HD",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8"
+  },
+  {
+    "name": "Sony TEN 4 HD",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8"
+  },
+  {
+    "name": "Sony TEN 5 HD",
+    "logoUrl": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8"
+  },
+  {
+    "name": "Sony Kal",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg",
+    "groupTitle": "SonyLIV-dgr8akki",
+    "url": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8"
+  }
+]
